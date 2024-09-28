@@ -1,2 +1,2 @@
 # songslist
-SongsRepo for beatbox
+SongsRepo for SpringBoot applications
